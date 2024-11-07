@@ -31,15 +31,20 @@ This is an original font.
 You may use it free of charge, but please strictly abide by the following terms of use.
 
 ♢Terms of Use♢
-You may use the font for both commercial and personal use.
-For commercial use, please indicate the credit specified below.
-For personal use, it is not necessary to indicate the credit.
-Please do not violate the prohibited items.
+You may use this font free of charge for both commercial and personal purposes.
+No credit attribution is required for either personal or commercial use.
+No need to contact us prior to using the font.
+Please ensure compliance with the prohibited actions below.
+Feel free to apply any effects or edits, such as blurring.
+Usage in age-restricted content is allowed.
 
-♢ Prohibited items ♢
-Redistribution
+Note: Even if you adhere to these guidelines, the distributor reserves the right to request discontinuation of usage at their discretion.
+
+Prohibited Actions
+
+Redistribution of the font
 Selling the font data
-Creating another font based on this font
+Creating derivative fonts based on this font
+Credit Attribution
 
-♢Credit notation ♢
-Please list either "Ruprous" or "Ruprous / ラプラス" in the credit notation.
+If crediting, please use either “Ruprous” or “Ruprous / ラプラス.”
